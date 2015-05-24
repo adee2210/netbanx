@@ -1,0 +1,14 @@
+{
+    "name": "adee2210/netbanx",
+    "description": "Netbanx Payment Gateway (sandbox mode)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adel Waehayi",
+            "email": "adee_2210@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
