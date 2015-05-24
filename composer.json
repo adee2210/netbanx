@@ -9,6 +9,9 @@
             "email": "adee_2210@hotmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Adee2210\\Netbanx\\" : "src/" }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
